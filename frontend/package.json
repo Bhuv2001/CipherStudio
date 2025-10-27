@@ -1,0 +1,23 @@
+{
+  "name": "cipherstudio-frontend",
+  "version": "1.0.0",
+  "description": "CipherStudio - Browser React IDE (Sandpack)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@codesandbox/sandpack-react": "^2.20.0",
+    "axios": "^1.12.2",
+    "bootstrap": "^5.3.5",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "vite": "^7.1.11"
+  }
+}
