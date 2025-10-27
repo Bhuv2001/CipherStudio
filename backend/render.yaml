@@ -4,5 +4,5 @@ services:
     env: node
     rootDir: backend
     buildCommand: "npm install"
-    startCommand: "node server.js"
+    startCommand: "node start"
     plan: free

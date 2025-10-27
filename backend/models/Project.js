@@ -1,6 +1,4 @@
 import mongoose from "mongoose";
-import { configDotenv } from "dotenv";
-
 
 const projectSchema = new mongoose.Schema({
   name: { type: String, required: true },
