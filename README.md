@@ -6,7 +6,7 @@ It features a live preview, multiple themes, file management, and integration wi
 🚀 Live Demo
 
 Frontend (Vercel):
-👉 (https://cipher-studio-woad.vercel.app/)
+👉 https://cipher-studio-woad.vercel.app/
 
 Backend (Render):
 👉 https://cipherstudio-1-zudz.onrender.com
