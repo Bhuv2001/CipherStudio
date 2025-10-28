@@ -6,7 +6,7 @@ It features a live preview, multiple themes, file management, and integration wi
 🚀 Live Demo
 
 Frontend (Vercel):
-👉 https://cipherstudio.vercel.app
+👉 (https://cipher-studio-woad.vercel.app/)
 
 Backend (Render):
 👉 https://cipherstudio-1-zudz.onrender.com
@@ -48,7 +48,7 @@ cipherstudio/
 🪜 Setup Instructions
 
 1️⃣ Clone the repository
-git clone https://github.com/your-username/cipherstudio.git
+git clone https://github.com/bhuv2001/cipherstudio.git
 cd cipherstudio
 
 2️⃣ Install dependencies
